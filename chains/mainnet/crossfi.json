@@ -1,5 +1,5 @@
 {
-  "chain_name": "Cross Finance",
+  "chain_name": "CrossFi",
   "api": [{"provider": "qavurdagli", "address": "https://api-t-crossfi.qavurdagli.com"}],
   "rpc": [{"provider": "qavurdagli", "address": "https://rpc-t-crossfi.qavurdagli.com"}],
   "snapshot_provider": "",
