@@ -3,16 +3,16 @@
   "api": [{"provider": "qavurdagli", "address": "https://api-t-crossfi.qavurdagli.com"}],
   "rpc": [{"provider": "qavurdagli", "address": "https://rpc-t-crossfi.qavurdagli.com"}],
   "snapshot_provider": "",
-  "sdk_version": "0.47.4",
+  "sdk_version": "0.47.6",
   "coin_type": "60",
-  "min_tx_fee": "4000",
+  "min_tx_fee": "0",
   "addr_prefix": "mx",
   "logo": "/logos/crossfi.png",
   "assets": [{
       "base": "mpx",
       "symbol": "PX",
       "exponent": "18",
-      "coingecko_id": "",
+      "coingecko_id": "crossfi",
       "logo": "/logos/crossfi.png"
     }]
 }
